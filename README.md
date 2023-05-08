@@ -5,7 +5,7 @@ Adicionalmente Conexión a Base de datos, Clase bean, DBConnection.
 
 ## Estructura del Proyecto
 
-### Formulario de inicio de sesion y registro:
+### Conexión a DB:
 
 - Creamos la etiqueta <!Doctype html> para el identificador de web, para el que el SO identifique que version de html estamos usando. 
 
@@ -25,6 +25,8 @@ Adicionalmente Conexión a Base de datos, Clase bean, DBConnection.
 
   - Etiqueta "footer" el cual es el pie de pagina.
   
+### Encriptacion y desencriptacion:
+  
 
 ## Dependencias
 
@@ -36,4 +38,4 @@ Adicionalmente Conexión a Base de datos, Clase bean, DBConnection.
 ## Contacto
 Jhoann Sebastian Zamudio <br>
 jszamudio35@soy.sena.edu.co <br>
-https://github.com/JoanZamudio/JAVA_AVANZADO_27-04.git
+https://github.com/JoanZamudio/JAVA_AVANZADO_07_05.git
