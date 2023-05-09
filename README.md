@@ -1,7 +1,7 @@
 # Prueba de conexión a base de datos localmente, y contraseñas encriptadas.
 
-Es un codigo en HTML el cual contiene dos formulario , uno de registro y el otro de inicio de sesion con validaciones, en una estructura semantica de HTML, estilos de CSS puro y Bootstrap. <br>
-Adicionalmente Conexión a Base de datos, Clase bean, DBConnection.
+Es un codigo en el cual se gestiono la conexion de bases de datos con SQL y Java, de importaron dependencias, se crearon diferentes clases JAVA con el codigo de la conexion. <br>
+Se hace una encriptacion de contraseñas atravez de SQL y JAVA
 
 ## Estructura del Proyecto
 
