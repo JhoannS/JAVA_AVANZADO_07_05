@@ -8,7 +8,7 @@ Se hace una encriptacion de contraseñas atravez de SQL y JAVA
 ### Conexión a DB:
 creamos una clase llamada "BasicConnection" para comprobar la conectividad local con variables establecidas del localhost de SQL, seguidamente creamos un archivo llamado "pool de conexiones" donde alli implementamos las dependencias en el pom.xml con la version del Apache.
 
-
+https://github.com/JoanZamudio/JAVA_AVANZADO_07_05/blob/main/git.PNG
 
   
 ### Encriptacion y desencriptacion:
