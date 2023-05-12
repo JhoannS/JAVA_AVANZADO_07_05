@@ -8,6 +8,8 @@ Se hace una encriptacion de contraseñas atravez de SQL y JAVA
 ### Conexión a DB:
 creamos una clase llamada "BasicConnection" para comprobar la conectividad local con variables establecidas del localhost de SQL, seguidamente creamos un archivo llamado "pool de conexiones" donde alli implementamos las dependencias en el pom.xml con la version del Apache.
 
+
+
   
 ### Encriptacion y desencriptacion:
  en la base de datos ya creada cambiamos el tipo de dato de "VARCHAR" a "VARBINARY", seguidamente definimos una frase, que no sea del diccionario y la convertimos en HASH. <br>
